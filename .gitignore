@@ -1,0 +1,9 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore .ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Ignore full data files
+Data/Demographics.csv
+Data/Incidents.csv
